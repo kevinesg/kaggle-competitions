@@ -1,3 +1,0 @@
-Running the code results in ~99.4% test accuracy.
-This specific model created has a 99.425% test accuracy.
-Highest test accuracy obtained is 99.503% (rank 586/5559 as of this writing).
