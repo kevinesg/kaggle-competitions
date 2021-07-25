@@ -1,4 +1,4 @@
-#CIFAR10
+# CIFAR10
 #
 First run `data_preprocessing.py` to preprocess the raw images into .npy files.
 Then run `train_model.py` to train the chosen CNN model which is a "mini ResNet".
